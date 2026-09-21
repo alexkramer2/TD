@@ -81,4 +81,5 @@ link: https://www.youtube.com/watch?v=XNHv6VryB8o
 6. Outfit changer - swipe with hands 
 7. Drink pouring - right level of pours
 8. Hacky Sack - tracks feet and bounces up
-9. 
+9. Smiley Beer - Face only smiles if it detects a beer
+10. 
